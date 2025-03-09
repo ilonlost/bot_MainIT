@@ -1,0 +1,55 @@
+2025-01-27 23:37:03,385 - aiogram.dispatcher - INFO - Start polling
+2025-01-27 23:37:03,836 - aiogram.dispatcher - INFO - Run polling for bot @itfk_bot id=7504402851 - 'IT FK'
+2025-01-27 23:37:09,110 - aiogram.event - INFO - Update id=95324004 is handled. Duration 460 ms by bot id=7504402851
+2025-01-27 23:37:12,363 - aiogram.event - INFO - Update id=95324005 is handled. Duration 78 ms by bot id=7504402851
+2025-01-27 23:37:13,718 - aiogram.event - INFO - Update id=95324006 is handled. Duration 69 ms by bot id=7504402851
+2025-01-27 23:37:14,536 - aiogram.event - INFO - Update id=95324007 is handled. Duration 68 ms by bot id=7504402851
+2025-01-27 23:37:19,995 - aiogram.event - INFO - Update id=95324008 is handled. Duration 76 ms by bot id=7504402851
+2025-01-27 23:37:20,768 - aiogram.event - INFO - Update id=95324009 is handled. Duration 69 ms by bot id=7504402851
+2025-01-27 23:37:21,728 - aiogram.event - INFO - Update id=95324010 is not handled. Duration 2 ms by bot id=7504402851
+2025-01-27 23:37:22,807 - aiogram.event - INFO - Update id=95324011 is handled. Duration 79 ms by bot id=7504402851
+2025-01-27 23:37:23,677 - aiogram.event - INFO - Update id=95324012 is handled. Duration 105 ms by bot id=7504402851
+2025-01-27 23:37:24,576 - aiogram.event - INFO - Update id=95324013 is not handled. Duration 1 ms by bot id=7504402851
+2025-01-27 23:37:25,274 - aiogram.event - INFO - Update id=95324014 is handled. Duration 69 ms by bot id=7504402851
+2025-01-27 23:38:38,179 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-27 23:38:38,432 - aiogram.dispatcher - INFO - Polling stopped for bot @itfk_bot id=7504402851 - 'IT FK'
+2025-01-27 23:38:42,655 - aiogram.dispatcher - INFO - Start polling
+2025-01-27 23:38:43,097 - aiogram.dispatcher - INFO - Run polling for bot @itfk_bot id=7504402851 - 'IT FK'
+2025-01-27 23:38:56,128 - aiogram.event - INFO - Update id=95324015 is handled. Duration 512 ms by bot id=7504402851
+2025-01-27 23:38:57,750 - aiogram.event - INFO - Update id=95324016 is handled. Duration 135 ms by bot id=7504402851
+2025-01-27 23:38:59,234 - aiogram.event - INFO - Update id=95324017 is not handled. Duration 1 ms by bot id=7504402851
+2025-01-27 23:39:00,296 - aiogram.event - INFO - Update id=95324018 is handled. Duration 226 ms by bot id=7504402851
+2025-01-27 23:39:01,454 - aiogram.event - INFO - Update id=95324019 is handled. Duration 85 ms by bot id=7504402851
+2025-01-27 23:39:03,081 - aiogram.event - INFO - Update id=95324020 is handled. Duration 442 ms by bot id=7504402851
+2025-01-27 23:39:04,697 - aiogram.event - INFO - Update id=95324021 is handled. Duration 69 ms by bot id=7504402851
+2025-01-27 23:39:05,659 - aiogram.event - INFO - Update id=95324022 is handled. Duration 230 ms by bot id=7504402851
+2025-01-27 23:39:06,837 - aiogram.event - INFO - Update id=95324023 is handled. Duration 65 ms by bot id=7504402851
+2025-01-27 23:39:08,731 - aiogram.event - INFO - Update id=95324024 is handled. Duration 256 ms by bot id=7504402851
+2025-01-27 23:39:09,890 - aiogram.event - INFO - Update id=95324025 is handled. Duration 187 ms by bot id=7504402851
+2025-01-27 23:39:10,996 - aiogram.event - INFO - Update id=95324026 is handled. Duration 190 ms by bot id=7504402851
+2025-01-27 23:42:09,865 - aiogram.event - INFO - Update id=95324027 is not handled. Duration 2 ms by bot id=7504402851
+2025-01-27 23:42:18,299 - aiogram.event - INFO - Update id=95324028 is handled. Duration 68 ms by bot id=7504402851
+2025-01-27 23:42:21,060 - aiogram.event - INFO - Update id=95324029 is handled. Duration 87 ms by bot id=7504402851
+2025-01-27 23:42:22,575 - aiogram.event - INFO - Update id=95324030 is handled. Duration 323 ms by bot id=7504402851
+2025-01-27 23:42:24,106 - aiogram.event - INFO - Update id=95324031 is handled. Duration 199 ms by bot id=7504402851
+2025-01-27 23:42:25,208 - aiogram.event - INFO - Update id=95324032 is handled. Duration 168 ms by bot id=7504402851
+2025-01-27 23:42:29,436 - aiogram.event - INFO - Update id=95324033 is handled. Duration 95 ms by bot id=7504402851
+2025-01-27 23:42:30,939 - aiogram.event - INFO - Update id=95324034 is handled. Duration 182 ms by bot id=7504402851
+2025-01-28 00:04:06,433 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7504402851)
+2025-01-28 00:04:17,844 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7504402851)
+2025-01-28 00:04:57,132 - aiogram.event - INFO - Update id=95324035 is handled. Duration 719 ms by bot id=7504402851
+2025-01-28 00:05:18,627 - aiogram.event - INFO - Update id=95324036 is handled. Duration 174 ms by bot id=7504402851
+2025-01-28 00:05:24,242 - aiogram.event - INFO - Update id=95324037 is handled. Duration 115 ms by bot id=7504402851
+2025-01-28 00:05:25,863 - aiogram.event - INFO - Update id=95324038 is handled. Duration 180 ms by bot id=7504402851
+2025-01-28 00:05:35,723 - aiogram.event - INFO - Update id=95324039 is handled. Duration 93 ms by bot id=7504402851
+2025-01-28 00:05:37,728 - aiogram.event - INFO - Update id=95324040 is handled. Duration 385 ms by bot id=7504402851
+2025-01-28 00:05:39,298 - aiogram.event - INFO - Update id=95324041 is handled. Duration 130 ms by bot id=7504402851
+2025-01-28 00:05:40,543 - aiogram.event - INFO - Update id=95324042 is not handled. Duration 1 ms by bot id=7504402851
+2025-01-28 00:06:00,268 - aiogram.event - INFO - Update id=95324043 is handled. Duration 296 ms by bot id=7504402851
+2025-01-28 00:06:02,299 - aiogram.event - INFO - Update id=95324044 is handled. Duration 189 ms by bot id=7504402851
+2025-01-28 00:06:03,752 - aiogram.event - INFO - Update id=95324045 is handled. Duration 176 ms by bot id=7504402851
+2025-01-28 00:09:45,576 - aiogram.event - INFO - Update id=95324046 is not handled. Duration 1 ms by bot id=7504402851
+2025-01-28 02:30:41,296 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7504402851)
+2025-01-28 02:30:52,719 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7504402851)
+2025-01-28 04:58:08,329 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-28 04:58:08,582 - aiogram.dispatcher - INFO - Polling stopped for bot @itfk_bot id=7504402851 - 'IT FK'
